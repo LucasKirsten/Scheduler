@@ -1,0 +1,26 @@
+ccopy_reg
+_reconstructor
+p0
+(cbuild.Organizacao
+Grupo
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'pessoas'
+p6
+(lp7
+VArthur
+p8
+aVBruno B
+p9
+aVBruno C
+p10
+asS'nome'
+p11
+S'Novo Grupo'
+p12
+sb.$$$
